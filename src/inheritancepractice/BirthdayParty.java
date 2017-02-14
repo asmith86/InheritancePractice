@@ -9,7 +9,7 @@ package inheritancepractice;
  *
  * @author Alex
  */
-public class BirthdayParty extends Celebration {
+public class BirthdayParty extends Party {
     private String birthdayPerson;
     private int candleNumber;
 

@@ -9,7 +9,7 @@ package inheritancepractice;
  *
  * @author Alex
  */
-public class Celebration extends Event {
+public class Party extends Event {
     private String[] attendants;
     private String location;
 
